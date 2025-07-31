@@ -1,1 +1,31 @@
-# TransGirlGuideComplete
+# TransGirlGuideComplete/成爲跨性別女孩的完全手冊（Zh-cn）
+
+
+## 概括
+
+笔者（即维护者和发起者）长期观察大陆MTF群体，随着limelight的瓦解及新论坛站点Futarino的逐渐式微。曾经limelight积蓄的大量MTF指导和相关讨论并未被新站点完全继承，而是分散在互联网各处。因此，刚刚成功探索自己真正想要性别表达的新人（这里称作新移民）并不知道怎样系统性的学习和了解和MTF相关的用药、社群文化。尽管有像Project Trans这样的组织，还是经常有人在迷茫的信息之海里感到困惑。
+
+为了方便新移民可以更好的加入我们MTF的大家庭并低风险的接受性别转换，西元2023年初青涩的编者释出了第一版《成爲跨性別女孩的完全手冊》。随着时间的流逝，这本手册已经年老，我们是时候重新起航了。
+
+本站点的项目名还是先继续叫《成爲跨性別女孩的完全手冊》，但所有的部分都将被推倒重来...这是一个巨大的工程，但我相信这并非不能做到。
+
+**《成爲跨性別女孩的完全手冊》** 希望成为一个免费开放且不断更新的知识整合站点，大家可以在这里获取关于**Male-to-Female**有趣又实用的知识和生活建议，我们将渐渐为大家准备HRT的基础知识、社群习惯、药物问题以及在社群营销自己等内容，帮助大家更快速地了解并实践性别转换过程。
+
+与此同时，本手册**源自社区部分编辑者的努力**，也属于**社区全体**，任何人都可自由编辑（不存在被开跨籍的情况），将永远**独立运行且中立**。
+
+## 致谢
+
+本项目目前使用[VitePress Theme Project Trans](https://github.com/project-trans/vitepress-theme-project-trans?tab=readme-ov-file)且将在未来托管在Github，本项目在编写过程中参考了诸多资料，在此一并致谢。
+
+## 善意使用人工智能
+
+前一版《成爲跨性別女孩的完全手冊》曾经使用人工智能进行创作，但考虑到人工智能对当代生活的冲击和假讯息带来的问题，这版《成爲跨性別女孩的完全手冊》将一切使用AI的部分进行同行评审和事实核查，可尽量保证较高的真实性和可复现性。
+
+## 如何参与完善《成爲跨性別女孩的完全手冊》
+> 本项目仓库目前是一个stub，在完全完善前请不要考虑这个。
+
+## 版权声明
+
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />除特别注明外，项目中除了引用部分均采用<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.zh">(Creative Commons BY-SA 4.0) 知识共享署名 - 相同方式共享 4.0 国际许可协议</a>及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
+
+一言以蔽之，使用本站文献是没有限制的，但必须署名捏（
